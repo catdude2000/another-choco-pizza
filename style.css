@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+    /* padding-left: 20%; */
+}
 .left{
     margin-right: 50%;
 }
@@ -6,6 +10,7 @@
 }
 .right {
     display: inline;
+    float: right;
 }
 .rtdvdv {
     padding-left: 6px;
@@ -22,4 +27,9 @@ h2 {
 }
 .ips {
     font-size: 18px;
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.van {
+    float: left;
 }
